@@ -4,7 +4,6 @@
 
 
 -  *Fiz esse miniGame pra viver um pouco a nostalgia do jogo do Mario com a jogabilidade do Dino do Google Chrome!*
->>>>>>> 55e3859c6e6e08d0edcb16b3802a68d22af7fa1f
 
 [🔗Clique aqui pra acessar](https://douglasffjw.github.io/MarioGame/)
 
