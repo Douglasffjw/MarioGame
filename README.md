@@ -2,9 +2,9 @@
 
 ![preview.png](./img/preview.png)
 
-- **Fiz esse miniGame pra viver um pouco a nostalgia do jogo do Mario com a jogabilidade do Dino do Google Chrome!
+- *Fiz esse miniGame pra viver um pouco a nostalgia do jogo do Mario com a jogabilidade do Dino do Google Chrome!*
 
-[🔗Clique aqui pra acessar](https://douglasffjw.github.io/NLWGAMES/)
+[🔗Clique aqui pra acessar](https://douglasffjw.github.io/MarioGame/)
 
 ## 🛠 Tecnologias
 
